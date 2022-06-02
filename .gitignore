@@ -133,3 +133,5 @@ dmypy.json
 config.py
 config*
 MyWork
+API_practice.ipynb
+weather_practice.ipynb
