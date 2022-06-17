@@ -1,5 +1,5 @@
 # World Weather Analysis
-Using OpenWeatherMap API, and Google Maps API, retrieve and analyze weather data for a travel company.
+Using OpenWeatherMap API and Google Maps API, retrieve and analyze weather data for a travel company.
 
 ## Project Overview
 - Generate a list of over 700 cities and retrieve weather data using OpenWeatherMap API.
